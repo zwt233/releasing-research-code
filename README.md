@@ -43,4 +43,4 @@ To train the model(s) in the paper:
 
 We test DeGNN on inductive and transductive settings:
 
-![Accuracy](https://drive.google.com/file/d/1CVNaL8D39nxBr-Dgw3WndCr7Upe9l_hh/view?usp=sharing)
+![Accuracy](DeGNN.png)
