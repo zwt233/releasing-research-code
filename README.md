@@ -43,4 +43,4 @@ To train the model(s) in the paper:
 
 We test DeGNN on inductive and transductive settings:
 
-!<img src="DeGNN.png" width="50%" height="50%">
+<img src="DeGNN.png" width="60%" height="60%">
